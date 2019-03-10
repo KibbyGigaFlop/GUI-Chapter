@@ -1,3 +1,3 @@
 This folder contains the answers to the checkpoints and the code listings.
 
-Some are unfinished, however.
+Completed as of 3/10/19
